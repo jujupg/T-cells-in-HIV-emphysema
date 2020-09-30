@@ -4,7 +4,7 @@ Here, I analyse published data from a [study](https://www.ncbi.nlm.nih.gov/pmc/a
 
 ##Figures
 This is a bar chart showing the relationship between CD4/CD8 ratios and smoking status
-[!Smoker chart](figures/smoker_chart.png)
+[Figure 1](figures/smoker_chart.png)
 
 This figure shows a bar chart displaying the relationship between CD4/CD8 ratios and emphysema severity. I applied a linear regression to assess the statistical significance of the association between the two variables.
-[!emphysema chart](figures/CD4CD8_emphysema.png)
+[Figure 2](figures/CD4CD8_emphysema.png)
